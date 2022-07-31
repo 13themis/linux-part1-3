@@ -9,5 +9,5 @@ if [[ $NAME =~ ^[a-zA-Z]+$ ]]
 then
     echo "Hello, $NAME!"
 else
-    echo "heh...dump..."
+    echo "heh...dump...."
 fi
