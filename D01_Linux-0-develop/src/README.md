@@ -6,18 +6,18 @@
 
 Итак, перейдем к заданиям. Установка линукса. Если все прошло успешно то ты обязательно встретишь такое окошко
 
-![](https://repos.21-school.ru/students/D01_Linux.ID_356272/kareypib_student.21_school.ru/D01_Linux-0/-/raw/develop/src/1-6/%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%B0%D1%8F%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.png)
+![]([https://repos.21-school.ru/students/D01_Linux.ID_356272/kareypib_student.21_school.ru/D01_Linux-0/-/raw/develop/src/1-6/%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%B0%D1%8F%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.png](https://github.com/13themis/linux-part1-3/blob/main/D01_Linux-0-develop/src/1-6/%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%B0%D1%8F%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.png))
 
 Дальше перезагружаем ОС и уже заходим под userом, которого создали при установке. И проверим что там наустанавливал.
 
 
     cat /etc/issue
 
-![](https://repos.21-school.ru/students/D01_Linux.ID_356272/kareypib_student.21_school.ru/D01_Linux-0/-/raw/develop/src/1-6/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%83%D0%B1%D1%8B%20.png)
+![]([https://repos.21-school.ru/students/D01_Linux.ID_356272/kareypib_student.21_school.ru/D01_Linux-0/-/raw/develop/src/1-6/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%83%D0%B1%D1%8B%20.png](https://github.com/13themis/linux-part1-3/blob/main/D01_Linux-0-develop/src/1-6/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D1%83%D0%B1%D1%8B%20.png))
 
 Для того чтобы дальше не вводить монотонно sudo и не беситься от того, что я не могу редактировать какой либо из конфигов без рут подтверждения, то сразу зайду под рутом.
 
-![](https://repos.21-school.ru/students/D01_Linux.ID_356272/kareypib_student.21_school.ru/D01_Linux-0/-/raw/develop/src/1-6/%D1%80%D1%83%D1%82%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BD%D0%B5%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%D1%81%D1%83%D0%B4%D0%BE.png)
+![]([https://repos.21-school.ru/students/D01_Linux.ID_356272/kareypib_student.21_school.ru/D01_Linux-0/-/raw/develop/src/1-6/%D1%80%D1%83%D1%82%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BD%D0%B5%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%D1%81%D1%83%D0%B4%D0%BE.png](https://github.com/13themis/linux-part1-3/blob/main/D01_Linux-0-develop/src/1-6/%D1%80%D1%83%D1%82%20%D1%87%D1%82%D0%BE%D0%B1%D1%8B%20%D0%BD%D0%B5%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C%20%D1%81%D1%83%D0%B4%D0%BE.png))
 
 
 ## Part 2. Создание пользователя
